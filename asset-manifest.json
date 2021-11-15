@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-Todo/static/js/main.724c75c9.chunk.js",
+    "main.js.map": "/React-Todo/static/js/main.724c75c9.chunk.js.map",
+    "runtime-main.js": "/React-Todo/static/js/runtime-main.219388ea.js",
+    "runtime-main.js.map": "/React-Todo/static/js/runtime-main.219388ea.js.map",
+    "static/js/2.8acd2808.chunk.js": "/React-Todo/static/js/2.8acd2808.chunk.js",
+    "static/js/2.8acd2808.chunk.js.map": "/React-Todo/static/js/2.8acd2808.chunk.js.map",
+    "index.html": "/React-Todo/index.html",
+    "precache-manifest.921a929b278735f6ebb3538c5bdc652b.js": "/React-Todo/precache-manifest.921a929b278735f6ebb3538c5bdc652b.js",
+    "service-worker.js": "/React-Todo/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.219388ea.js",
+    "static/js/2.8acd2808.chunk.js",
+    "static/js/main.724c75c9.chunk.js"
+  ]
+}
